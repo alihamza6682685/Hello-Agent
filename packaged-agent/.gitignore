@@ -12,7 +12,6 @@ wheels/
 # Environment / secrets
 .env
 .env.*        # e.g., .env.local, .env.test
-Output
 
 # Virtual environments
 .venv/
